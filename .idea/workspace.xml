@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b2f7066-f5ac-4720-8b2f-f55ce5caf81b" name="Default" comment="" />
+    <ignored path="noithat.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="noithat" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="207" column="16" selection-start-line="207" selection-start-column="16" selection-end-line="207" selection-end-column="16" />
+              <folding>
+                <element signature="n#theme_register_meta_boxes#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WPEX_Theme_Options.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/lib/WPEX_Theme_Options.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="196" column="74" selection-start-line="196" selection-start-column="74" selection-end-line="196" selection-end-column="74" />
+              <folding>
+                <marker date="1562602214955" expanded="true" signature="4960:5066" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="5835:5873" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="6436:6580" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="7399:7437" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="7655:7914" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="7747:7885" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="7970:8102" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="8639:8677" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="8895:9162" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="8991:9133" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="9218:9348" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="10121:10159" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="11142:11180" ph="..." />
+                <marker date="1562602214955" expanded="true" signature="11377:11418" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/index2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main-slider.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/main-slider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-561">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menubar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/menubar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-174">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top-page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/top-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Custom_Walker_Nav_Menu_top.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/lib/Custom_Walker_Nav_Menu_top.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <marker date="1562600950603" expanded="true" signature="3215:3229" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="primary-menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/primary-menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/tramdecor/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/index1.php" />
+        <option value="$PROJECT_DIR$/wp-includes/plugin.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/js/main.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/search-mobile.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/lib/Custom_Walker_Nav_Menu_top.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/menubar.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/top-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/main-slider.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kientruc/lib/WPEX_Theme_Options.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kientruc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kientruc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template-parts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kientruc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template-parts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="header" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kientruc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="noithat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kientruc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\noithat\wp-content\themes\kientruc\js\admin" />
+      <recent name="D:\xampp\htdocs\noithat\wp-content\themes\kientruc\css\admin" />
+      <recent name="D:\xampp\htdocs\noithat\wp-content\themes\kientruc\template-parts\header" />
+      <recent name="D:\xampp\htdocs\noithat\wp-content\themes\kientruc" />
+      <recent name="D:\xampp\htdocs\noithat\wp-content\themes\kientruc\html" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b2f7066-f5ac-4720-8b2f-f55ce5caf81b" name="Default" comment="" />
+      <created>1562591687852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562591687852</updated>
+      <workItem from="1562591688994" duration="9942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9942000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2473525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/html/lien-he/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <marker date="1562511343000" expanded="true" signature="38465:38480" ph="..." />
+            <marker date="1562511343000" expanded="true" signature="38515:38533" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/includes/noop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-hook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="72" column="54" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="112" column="30" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/js/jquery-1.10.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="3" column="8586" selection-start-line="3" selection-start-column="8585" selection-end-line="3" selection-end-column="8586" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1531" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="62" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/header-pc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/header1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#5827#5835#0#HTML" expanded="false" />
+            <element signature="e#5856#5863#0#HTML" expanded="false" />
+            <element signature="e#5867#5875#0#HTML" expanded="false" />
+            <element signature="e#5883#5891#0#HTML" expanded="false" />
+            <element signature="e#5950#5958#0#HTML" expanded="false" />
+            <element signature="e#5966#5973#0#HTML" expanded="false" />
+            <element signature="e#5990#5998#0#HTML" expanded="false" />
+            <element signature="e#6005#6013#0#HTML" expanded="false" />
+            <element signature="e#6101#6109#0#HTML" expanded="false" />
+            <element signature="e#6115#6123#0#HTML" expanded="false" />
+            <element signature="e#6139#6147#0#HTML" expanded="false" />
+            <element signature="e#6155#6162#0#HTML" expanded="false" />
+            <element signature="e#6165#6173#0#HTML" expanded="false" />
+            <element signature="e#6260#6268#0#HTML" expanded="false" />
+            <element signature="e#6307#6314#0#HTML" expanded="false" />
+            <element signature="e#6329#6337#0#HTML" expanded="false" />
+            <element signature="e#6347#6354#0#HTML" expanded="false" />
+            <element signature="e#6418#6426#0#HTML" expanded="false" />
+            <element signature="e#6454#6461#0#HTML" expanded="false" />
+            <element signature="e#6463#6471#0#HTML" expanded="false" />
+            <element signature="e#6471#6477#0#HTML" expanded="false" />
+            <element signature="e#6487#6495#0#HTML" expanded="false" />
+            <element signature="e#6519#6527#0#HTML" expanded="false" />
+            <element signature="e#6532#6540#0#HTML" expanded="false" />
+            <element signature="e#6544#6552#0#HTML" expanded="false" />
+            <element signature="e#6581#6589#0#HTML" expanded="false" />
+            <element signature="e#6593#6600#0#HTML" expanded="false" />
+            <element signature="e#6705#6711#1#HTML" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#3;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#strong#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#3;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#12146#12154#0#HTML" expanded="false" />
+            <element signature="e#12171#12177#0#HTML" expanded="false" />
+            <element signature="e#12314#12320#0#HTML" expanded="false" />
+            <element signature="e#12326#12333#0#HTML" expanded="false" />
+            <element signature="e#12348#12356#0#HTML" expanded="false" />
+            <element signature="e#12374#12382#0#HTML" expanded="false" />
+            <element signature="e#12387#12394#0#HTML" expanded="false" />
+            <element signature="e#12456#12464#0#HTML" expanded="false" />
+            <element signature="e#12491#12497#0#HTML" expanded="false" />
+            <element signature="e#12504#12512#0#HTML" expanded="false" />
+            <element signature="e#12515#12522#0#HTML" expanded="false" />
+            <element signature="e#12536#12544#0#HTML" expanded="false" />
+            <element signature="e#12559#12566#0#HTML" expanded="false" />
+            <element signature="e#12571#12579#0#HTML" expanded="false" />
+            <element signature="e#12609#12616#0#HTML" expanded="false" />
+            <element signature="e#12625#12633#0#HTML" expanded="false" />
+            <element signature="e#12636#12644#0#HTML" expanded="false" />
+            <element signature="e#12670#12677#0#HTML" expanded="false" />
+            <element signature="e#12723#12731#0#HTML" expanded="false" />
+            <element signature="e#12847#12855#0#HTML" expanded="false" />
+            <element signature="e#12859#12866#0#HTML" expanded="false" />
+            <element signature="e#12869#12877#0#HTML" expanded="false" />
+            <element signature="e#12891#12899#0#HTML" expanded="false" />
+            <element signature="e#12907#12915#0#HTML" expanded="false" />
+            <element signature="e#12994#13002#0#HTML" expanded="false" />
+            <element signature="e#13031#13039#0#HTML" expanded="false" />
+            <element signature="e#13081#13089#0#HTML" expanded="false" />
+            <element signature="e#13111#13118#0#HTML" expanded="false" />
+            <element signature="e#13124#13130#0#HTML" expanded="false" />
+            <element signature="e#13275#13281#1#HTML" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#3;n#div#1;n#div#3;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#15518#15526#0#HTML" expanded="false" />
+            <element signature="e#15531#15539#0#HTML" expanded="false" />
+            <element signature="e#15540#15546#0#HTML" expanded="false" />
+            <element signature="e#15668#15675#0#HTML" expanded="false" />
+            <element signature="e#15678#15686#0#HTML" expanded="false" />
+            <element signature="e#15700#15706#0#HTML" expanded="false" />
+            <element signature="e#15752#15760#0#HTML" expanded="false" />
+            <element signature="e#15767#15774#0#HTML" expanded="false" />
+            <element signature="e#15777#15785#0#HTML" expanded="false" />
+            <element signature="e#15881#15889#0#HTML" expanded="false" />
+            <element signature="e#15904#15912#0#HTML" expanded="false" />
+            <element signature="e#15916#15924#0#HTML" expanded="false" />
+            <element signature="e#15928#15935#0#HTML" expanded="false" />
+            <element signature="e#15955#15963#0#HTML" expanded="false" />
+            <element signature="e#15972#15978#0#HTML" expanded="false" />
+            <element signature="e#15979#15987#0#HTML" expanded="false" />
+            <element signature="e#16108#16116#0#HTML" expanded="false" />
+            <element signature="e#16125#16133#0#HTML" expanded="false" />
+            <element signature="e#16143#16151#0#HTML" expanded="false" />
+            <element signature="e#16221#16229#0#HTML" expanded="false" />
+            <element signature="e#16236#16244#0#HTML" expanded="false" />
+            <element signature="e#16246#16254#0#HTML" expanded="false" />
+            <element signature="e#16257#16264#0#HTML" expanded="false" />
+            <element signature="e#16266#16272#0#HTML" expanded="false" />
+            <element signature="e#16275#16282#0#HTML" expanded="false" />
+            <element signature="e#16302#16309#0#HTML" expanded="false" />
+            <element signature="e#16312#16320#0#HTML" expanded="false" />
+            <element signature="e#16467#16475#0#HTML" expanded="false" />
+            <element signature="e#16551#16559#0#HTML" expanded="false" />
+            <element signature="e#16563#16570#0#HTML" expanded="false" />
+            <element signature="e#16588#16596#0#HTML" expanded="false" />
+            <element signature="e#16606#16614#0#HTML" expanded="false" />
+            <element signature="e#16618#16626#0#HTML" expanded="false" />
+            <element signature="e#16631#16638#0#HTML" expanded="false" />
+            <element signature="e#16642#16650#0#HTML" expanded="false" />
+            <element signature="e#16664#16671#0#HTML" expanded="false" />
+            <element signature="e#16711#16719#0#HTML" expanded="false" />
+            <element signature="e#16798#16805#0#HTML" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#3;n#div#1;n#div#3;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#19086#19093#0#HTML" expanded="false" />
+            <element signature="e#19103#19110#0#HTML" expanded="false" />
+            <element signature="e#19125#19133#0#HTML" expanded="false" />
+            <element signature="e#19162#19170#0#HTML" expanded="false" />
+            <element signature="e#19174#19182#0#HTML" expanded="false" />
+            <element signature="e#19190#19198#0#HTML" expanded="false" />
+            <element signature="e#19199#19207#0#HTML" expanded="false" />
+            <element signature="e#19226#19234#0#HTML" expanded="false" />
+            <element signature="e#19258#19266#0#HTML" expanded="false" />
+            <element signature="e#19278#19286#0#HTML" expanded="false" />
+            <element signature="e#19290#19298#0#HTML" expanded="false" />
+            <element signature="e#19421#19428#0#HTML" expanded="false" />
+            <element signature="e#19447#19455#0#HTML" expanded="false" />
+            <element signature="e#19494#19502#0#HTML" expanded="false" />
+            <element signature="e#19576#19584#0#HTML" expanded="false" />
+            <element signature="e#19588#19596#0#HTML" expanded="false" />
+            <element signature="e#19628#19636#0#HTML" expanded="false" />
+            <element signature="e#19658#19666#0#HTML" expanded="false" />
+            <element signature="e#19755#19763#0#HTML" expanded="false" />
+            <element signature="e#19783#19791#0#HTML" expanded="false" />
+            <element signature="e#19819#19827#0#HTML" expanded="false" />
+            <element signature="e#19831#19839#0#HTML" expanded="false" />
+            <element signature="e#19848#19855#0#HTML" expanded="false" />
+            <element signature="e#19872#19879#0#HTML" expanded="false" />
+            <element signature="e#19889#19896#0#HTML" expanded="false" />
+            <element signature="e#19919#19927#0#HTML" expanded="false" />
+            <element signature="e#19955#19963#0#HTML" expanded="false" />
+            <element signature="e#20104#20110#1#HTML" expanded="false" />
+            <element signature="e#20177#20183#1#HTML" expanded="false" />
+            <element signature="n#style#0;n#div#7;n#div#1;n#div#3;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#5;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#36440#36447#0#HTML" expanded="false" />
+            <element signature="e#36452#36460#0#HTML" expanded="false" />
+            <element signature="e#36470#36478#0#HTML" expanded="false" />
+            <element signature="e#36524#36532#0#HTML" expanded="false" />
+            <element signature="e#36543#36551#0#HTML" expanded="false" />
+            <element signature="e#36570#36577#0#HTML" expanded="false" />
+            <element signature="e#36581#36589#0#HTML" expanded="false" />
+            <element signature="e#36591#36599#0#HTML" expanded="false" />
+            <element signature="e#36646#36654#0#HTML" expanded="false" />
+            <element signature="e#36666#36673#0#HTML" expanded="false" />
+            <element signature="e#36677#36684#0#HTML" expanded="false" />
+            <element signature="e#36687#36694#0#HTML" expanded="false" />
+            <element signature="e#36697#36705#0#HTML" expanded="false" />
+            <element signature="e#36707#36714#0#HTML" expanded="false" />
+            <element signature="e#36772#36780#0#HTML" expanded="false" />
+            <element signature="e#36791#36798#0#HTML" expanded="false" />
+            <element signature="e#36803#36811#0#HTML" expanded="false" />
+            <element signature="e#36815#36823#0#HTML" expanded="false" />
+            <element signature="e#36837#36844#0#HTML" expanded="false" />
+            <element signature="e#36901#36907#0#HTML" expanded="false" />
+            <element signature="e#38228#38236#0#HTML" expanded="false" />
+            <element signature="e#38252#38259#0#HTML" expanded="false" />
+            <element signature="e#38337#38345#0#HTML" expanded="false" />
+            <element signature="e#38348#38355#0#HTML" expanded="false" />
+            <element signature="e#38454#38462#0#HTML" expanded="false" />
+            <element signature="e#38464#38471#0#HTML" expanded="false" />
+            <element signature="e#38479#38487#0#HTML" expanded="false" />
+            <element signature="e#38501#38509#0#HTML" expanded="false" />
+            <element signature="e#38567#38573#0#HTML" expanded="false" />
+            <element signature="e#39956#39963#0#HTML" expanded="false" />
+            <element signature="e#39967#39975#0#HTML" expanded="false" />
+            <element signature="e#39977#39985#0#HTML" expanded="false" />
+            <element signature="e#40039#40047#0#HTML" expanded="false" />
+            <element signature="e#40050#40058#0#HTML" expanded="false" />
+            <element signature="e#40069#40077#0#HTML" expanded="false" />
+            <element signature="e#40098#40106#0#HTML" expanded="false" />
+            <element signature="e#40160#40167#0#HTML" expanded="false" />
+            <element signature="e#40171#40179#0#HTML" expanded="false" />
+            <element signature="e#40208#40215#0#HTML" expanded="false" />
+            <element signature="e#40219#40227#0#HTML" expanded="false" />
+            <element signature="e#40283#40291#0#HTML" expanded="false" />
+            <element signature="e#40303#40311#0#HTML" expanded="false" />
+            <element signature="e#40325#40331#0#HTML" expanded="false" />
+            <element signature="e#41803#41811#0#HTML" expanded="false" />
+            <element signature="e#41814#41822#0#HTML" expanded="false" />
+            <element signature="e#41826#41834#0#HTML" expanded="false" />
+            <element signature="e#41889#41897#0#HTML" expanded="false" />
+            <element signature="e#41931#41939#0#HTML" expanded="false" />
+            <element signature="e#41942#41949#0#HTML" expanded="false" />
+            <element signature="e#42023#42031#0#HTML" expanded="false" />
+            <element signature="e#42066#42074#0#HTML" expanded="false" />
+            <element signature="e#42121#42128#0#HTML" expanded="false" />
+            <element signature="e#42134#42140#0#HTML" expanded="false" />
+            <element signature="e#42141#42149#0#HTML" expanded="false" />
+            <element signature="e#42153#42161#0#HTML" expanded="false" />
+            <element signature="e#42165#42173#0#HTML" expanded="false" />
+            <element signature="e#42183#42189#0#HTML" expanded="false" />
+            <element signature="e#43298#43304#0#HTML" expanded="false" />
+            <element signature="e#43305#43313#0#HTML" expanded="false" />
+            <element signature="e#43317#43325#0#HTML" expanded="false" />
+            <element signature="e#43363#43370#0#HTML" expanded="false" />
+            <element signature="e#43373#43381#0#HTML" expanded="false" />
+            <element signature="e#43449#43455#0#HTML" expanded="false" />
+            <element signature="e#43468#43474#0#HTML" expanded="false" />
+            <element signature="e#43475#43481#0#HTML" expanded="false" />
+            <element signature="e#43541#43547#0#HTML" expanded="false" />
+            <element signature="e#43574#43580#0#HTML" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="e#46359#46365#0#HTML" expanded="false" />
+            <element signature="e#46385#46391#0#HTML" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/sidebar-content-bottom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-has-sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/css/admin/redux-fields.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/js/admin/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tramdecor/wp-content/themes/tramdecor/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="102" column="91" selection-start-line="102" selection-start-column="91" selection-end-line="102" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/primary-menu-mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/comment-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="1215" column="9" selection-start-line="1215" selection-start-column="9" selection-end-line="1215" selection-end-column="9" />
+          <folding>
+            <marker date="1552480374000" expanded="true" signature="39977:40130" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/primary-menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/lib/Custom_Walker_Nav_Menu_top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <marker date="1562600950603" expanded="true" signature="3215:3229" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/header-mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/search-mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/top-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="207" column="16" selection-start-line="207" selection-start-column="16" selection-end-line="207" selection-end-column="16" />
+          <folding>
+            <element signature="n#theme_register_meta_boxes#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/lib/WPEX_Theme_Options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="196" column="74" selection-start-line="196" selection-start-column="74" selection-end-line="196" selection-end-column="74" />
+          <folding>
+            <marker date="1562602214955" expanded="true" signature="4960:5066" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="5835:5873" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="6436:6580" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="7399:7437" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="7655:7914" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="7747:7885" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="7970:8102" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="8639:8677" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="8895:9162" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="8991:9133" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="9218:9348" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="10121:10159" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="11142:11180" ph="..." />
+            <marker date="1562602214955" expanded="true" signature="11377:11418" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/menubar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/template-parts/header/main-slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kientruc/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

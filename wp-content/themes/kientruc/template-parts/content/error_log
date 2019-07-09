@@ -1,0 +1,1 @@
+[31-Jan-2019 21:01:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function get_previous_post() in /home/levid351/public_html/wp-content/themes/tramdecor/template-parts/content/post-navigation.php on line 2
